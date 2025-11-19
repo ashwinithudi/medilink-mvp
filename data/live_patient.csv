@@ -1,0 +1,2 @@
+patient_id,name,age,gender,hospital,city,heart_rate,bp_systolic,bp_diastolic,oxygen
+2641,Kavya,73,M,KIMS,Vikarabad,141,179,104,91
