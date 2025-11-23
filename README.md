@@ -102,11 +102,14 @@ Doctor mobile app
 
 Smart diagnosis assistance
 
-👩‍💻 Developer
+👩‍💻 Developers
 
 Ashwini Thudi
 GitHub: https://github.com/ashwinithudi
-
 LinkedIn: https://www.linkedin.com/in/ashwini-thudi
+
+Saketh Ramojjala
+Github: https://github.com/saketh7929
+LinkedIn : https://www.linkedin.com/in/ramojjala-saketh-472125224
 
 ⭐ Star this repo if you found it useful!
