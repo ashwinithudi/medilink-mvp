@@ -105,12 +105,14 @@ Smart diagnosis assistance
 👩‍💻 Developers
 
 Ashwini Thudi
+
 GitHub: https://github.com/ashwinithudi
 
 
 LinkedIn: https://www.linkedin.com/in/ashwini-thudi
 
 Saketh Ramojjala
+
 Github: https://github.com/saketh7929
 
 
